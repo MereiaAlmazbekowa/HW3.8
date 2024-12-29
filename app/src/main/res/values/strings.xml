@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW3.8</string>
+    <string name="detail_info">Detail info</string>
+    <string name="back">Назад</string>
+    <string name="korzina">В корзину</string>
+    <string name="name_product">Название продукта</string>
+    <string name="Back">Назад</string>
+    <string name="backk">Назад</string>
+</resources>
